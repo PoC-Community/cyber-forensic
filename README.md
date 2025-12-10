@@ -66,19 +66,6 @@ You spotted a malicious program. Create a **binary memory dump** of this process
 
 **Expected flag :** `PoC{HASH(SHA512)}`
 
----
-
-### **🔹 Challenge 5 — Memory address hunting**
-
-I would like to find the **memory address** of the process that shows us the Python version.
-
-A SHA384 hash of the decompressed dump is provided for verification:
-
-```
-eaf86b887f64c5db77d878645d78da544b52c00f76b3967a8128546a3740ad443994d08166e6b5b071def6a63d776d45
-```
-
-**Expected flag :** `PoC{MemoryAddress}`
 
 <h2 align=center>
 Organization
